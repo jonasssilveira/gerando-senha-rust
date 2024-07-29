@@ -4,4 +4,4 @@
 - Create a CLI program to generate random password, based on user preferencies
 
 ## The result
-- Based on the user preferencies generate a random passords content: #numbers, #symbols, #lowercase and #uppercase
+- Based on the user preferencies generate a random passords content: numbers, symbols, lowercase and uppercase
